@@ -7,3 +7,9 @@
 
 # Task1
 [![](https://github.com/xxxx3423/javaproject1/blob/main/Pr3/img/1.png?raw=true)
+
+# Task2
+[![](https://github.com/xxxx3423/javaproject1/blob/main/Pr3/img/2.png?raw=true)
+
+# Task3
+[![](https://github.com/xxxx3423/javaproject1/blob/main/Pr3/img/3.png?raw=true)
